@@ -37,7 +37,7 @@
 
 ## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact)
 
 ## 🌟 Featured Projects
 
