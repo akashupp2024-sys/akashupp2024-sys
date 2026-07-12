@@ -11,3 +11,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashupp2024-sys&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashupp2024-sys&theme=tokyonight)
