@@ -3,6 +3,10 @@
 <h3 align="center">BTech CSE (AI) | Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Learning+AI;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
   Learning DSA • Building Full Stack Projects • Exploring AI
 </p>
 
