@@ -37,7 +37,7 @@
 
 ## 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact&theme=tokyonight" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact)
 
 ## 🌟 Featured Projects
 
