@@ -27,3 +27,8 @@
 - 🤖 AI Voice Assistant
 - 🚪 ESP32 Smart Home Automation
 - 🩺 Ayurvedic Disease Prediction
+
+## 🌐 Connect With Me
+
+- Portfolio: https://akashupp2024-sys.github.io/Akash_pandey_portfolio/
+- GitHub: https://github.com/akashupp2024-sys
