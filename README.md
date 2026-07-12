@@ -3,7 +3,11 @@
 <h3 align="center">BTech CSE (AI) | Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Learning+AI;Building+Real+World+Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Akash%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=60" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Projects;Solving+LeetCode+Daily;Learning+AI+and+Web+Development;BTech+CSE+(AI)+Student" />
 </p>
 
 <p align="center">
