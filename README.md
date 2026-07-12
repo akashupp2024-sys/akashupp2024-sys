@@ -20,13 +20,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact&theme=tokyonight)
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-- 🛒 Organic Prakriti Store
-- 💼 JobTrackr
-- 🤖 AI Voice Assistant
-- 🚪 ESP32 Smart Home Automation
-- 🩺 Ayurvedic Disease Prediction
+### 🛒 Organic Agent
+Full Stack E-Commerce Platform using React, Node.js, Express, MongoDB.
+
+### 💻 LeetCode Sync
+Automatically syncs LeetCode solutions to GitHub.
+
+### 📄 Resume Analyzer
+Resume analysis web application built with HTML, CSS and JavaScript.
+
+### 🌐 Personal Portfolio
+My personal portfolio website showcasing projects and skills.
+
+### 💼 Job Board
+Job portal application developed during CodSoft internship.
 
 ## 🌐 Connect With Me
 
