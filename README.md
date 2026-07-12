@@ -19,3 +19,11 @@
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact&theme=tokyonight)
+
+## 🌟 Projects
+
+- 🛒 Organic Prakriti Store
+- 💼 JobTrackr
+- 🤖 AI Voice Assistant
+- 🚪 ESP32 Smart Home Automation
+- 🩺 Ayurvedic Disease Prediction
