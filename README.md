@@ -16,3 +16,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashupp2024-sys&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashupp2024-sys&theme=tokyonight)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact&theme=tokyonight)
