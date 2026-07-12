@@ -23,6 +23,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashupp2024-sys&theme=tokyonight)
 
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Akash9956?theme=dark&font=Karma&ext=heatmap)
+
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashupp2024-sys&layout=compact&theme=tokyonight)
