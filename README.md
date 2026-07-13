@@ -58,5 +58,5 @@ Job portal application developed during CodSoft internship.
 
 ## 🌐 Connect With Me
 
-- Portfolio: https://akashupp2024-sys.github.io/Akash_pandey_portfolio/
+- Portfolio: https://akashupp2024-sys.github.io/Akash-Portfolio/
 - GitHub: https://github.com/akashupp2024-sys
